@@ -10,7 +10,8 @@ The Interest Rate changes are shown for the following models:
 
 2) Cox Ingersoll Ross Model
 
-![webp net-resizeimage](https://user-images.githubusercontent.com/44057058/52192598-ddfa3800-2818-11e9-826a-9c0040940a16.png)
+
+![webp net-resizeimage 4](https://user-images.githubusercontent.com/44057058/52193327-b016f280-281c-11e9-96ad-38dfe45b43ed.png)
 
 3) Rendleman and Barter Model
 
