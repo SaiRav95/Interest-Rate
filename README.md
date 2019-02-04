@@ -1,5 +1,9 @@
 ## Interest-Rate <br />
-This repository contains codes for you to examine Interest Rate changes in the 1 factor Equilibrium Models: <br />
+This repository contains the 1 factor Equilibrium Models for the short rate. <br />
+There are 2 macros 1 for the graph which is **GraphCode.bas** and 1 is for the Interest Rate Models **InterestRateModels.cls** <br />
+The **InterestRate.xlsm** is the Excel sheet.
+
+The Interest Rate changes are shown for the following models: 
 1) Vasicek Model
 
 ![webp net-resizeimage 2](https://user-images.githubusercontent.com/44057058/52192784-d38c6e00-2819-11e9-888f-f398f0ff4fd3.png)
@@ -10,4 +14,4 @@ This repository contains codes for you to examine Interest Rate changes in the 1
 
 3) Rendleman and Barter Model
 
-![webp net-resizeimage 1](https://user-images.githubusercontent.com/44057058/52192695-5b25ad00-2819-11e9-90a8-3a4b778c0db2.png)
+![webp net-resizeimage 3](https://user-images.githubusercontent.com/44057058/52192927-747b2900-281a-11e9-9e08-338db831ac1d.png)
