@@ -8,7 +8,7 @@ The Interest Rate changes are shown for the following models:
 
 ![webp net-resizeimage 2](https://user-images.githubusercontent.com/44057058/52192784-d38c6e00-2819-11e9-888f-f398f0ff4fd3.png)
 
-2) Cox Ingersoll Ross Model
+2) Cox Ingersoll Ross (CIR) Model
 
 
 ![webp net-resizeimage 4](https://user-images.githubusercontent.com/44057058/52193327-b016f280-281c-11e9-96ad-38dfe45b43ed.png)
