@@ -10,3 +10,4 @@ This repository contains codes for you to examine Interest Rate changes in the 1
 
 3) Rendleman and Barter Model
 
+![webp net-resizeimage 1](https://user-images.githubusercontent.com/44057058/52192695-5b25ad00-2819-11e9-90a8-3a4b778c0db2.png)
