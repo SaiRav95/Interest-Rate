@@ -2,7 +2,7 @@
 This repository contains codes for you to examine Interest Rate changes in the 1 factor Equilibrium Models: <br />
 1) Vasicek Model
 
-![webp net-resizeimage](https://user-images.githubusercontent.com/44057058/52192369-8c9d7900-2817-11e9-833f-828f346b2d51.png)
+![webp net-resizeimage 2](https://user-images.githubusercontent.com/44057058/52192784-d38c6e00-2819-11e9-888f-f398f0ff4fd3.png)
 
 2) Cox Ingersoll Ross Model
 
