@@ -1,8 +1,11 @@
 ## Interest-Rate <br />
-This repository contains the 1 factor Equilibrium Models for the short rate. <br />
-There are 2 macros 1 for the graph which is **GraphCode.bas** and 1 is for the Interest Rate Models **InterestRateModels.cls** <br />
-The **InterestRate.xlsm** is the Excel sheet.
-
+This repository contains codes for the interest rate changes in the short rate for 1 factor Equilibrium Models. <br />
+<br />
+The **Black76.bas** macro contains Black-76 model for pricing the interest rate caps and floors. <br /> 
+<br />
+There are 2 macros for the 1 factor models 1 for the graph which is **GraphCode.bas** and 1 is for the Interest Rate Models **InterestRateModels.cls** <br />
+The **InterestRate.xlsm** is the Excel sheet. <br />
+<br />
 The Interest Rate changes are shown for the following models: 
 1) Vasicek Model
 
